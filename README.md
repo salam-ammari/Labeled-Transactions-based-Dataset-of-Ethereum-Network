@@ -1,2 +1,2 @@
-# Labeled Transactions-based Dataset of Ethereum Network
- Datasets used in the paper "Labeled Transactions-based Dataset of Ethereum Network"
+# A Labeled Transactions-Based Dataset on the Ethereum Network
+ Datasets used in the paper "A Labeled Transactions-Based Dataset on the Ethereum Network"
