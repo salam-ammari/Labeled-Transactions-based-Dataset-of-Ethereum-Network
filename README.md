@@ -8,8 +8,8 @@
 # Dataset Folder 
 
 Dataset folder has two files :
-1- .SCV file has Ethereum transactions with labeld 
-2- .txt file has fake Etherum adresses 
+- Dataset.SCV file has Ethereum transactions with labeld 
+- fakeAddresses_unique.txt file has fake Etherum adresses 
 
 # Codes Folder 
 
